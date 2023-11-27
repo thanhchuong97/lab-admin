@@ -11,7 +11,7 @@
       "restartPolicyType": "ON_FAILURE",
       "restartPolicyMaxRetries": 10
     },
-    "install": {
-        "installCommand": "npm i"
-    }
+    "scripts": {
+      "setup": "npm i"
+    },
 }
