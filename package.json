@@ -3,6 +3,9 @@
   "version": "2.0.0",
   "author": "CodedThemes",
   "license": "MIT",
+  "engines": {
+    "yarn": ">=1.22.0"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
